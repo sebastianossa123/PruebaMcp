@@ -1,0 +1,12 @@
+{
+  "name": "mcp-playwright-project",
+  "version": "1.0.0",
+  "description": "Proyecto de pruebas Playwright MCP",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.38.0"
+  }
+}
